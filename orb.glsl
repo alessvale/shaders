@@ -1,7 +1,6 @@
 // An orb like structure based on Voronoi cells
 
 //To be used in the shader editor "The Force"
-//https://shawnlawson.github.io/The_Force/
 
 
 //Helper functions
